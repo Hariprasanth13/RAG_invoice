@@ -1,0 +1,120 @@
+Invoice Text: "Invoice No. 12345 issued by ABC Corporation on 2024-10-09. Amount Due: $1500. Part: Widget A, Received: 2024-10-07. Buyer: ID 101, John Doe."
+Annotation:
+{
+    "invoice_number": "12345",
+    "vendor_name": "ABC Corporation",
+    "date": "2024-10-09",
+    "total_amount": "$1500",
+    "part_description": "Widget A",
+    "date_of_reception": "2024-10-07",
+    "buyer_id": "101",
+    "buyer_name": "John Doe"
+}
+Invoice Text: "Bill ID: INV56789, Date of Issue: 09/Oct/2024, Supplier: XYZ Ltd., Total: €2500. Item: Gearbox Assembly, Received on 2024-10-05, Buyer Info: 102, Alice Smith."
+Annotation:
+{
+    "invoice_number": "INV56789",
+    "vendor_name": "XYZ Ltd.",
+    "date": "2024-10-09",
+    "total_amount": "€2500",
+    "part_description": "Gearbox Assembly",
+    "date_of_reception": "2024-10-05",
+    "buyer_id": "102",
+    "buyer_name": "Alice Smith"
+}
+Invoice Text: "Document 789012 - Supplier: Tech Solutions Ltd., Due Date: October 9, 2024, Payment Amount: $300. Part Description: Hydraulic Pump, Received: 07/10/2024. Buyer ID: 103, Buyer Name: Bob Johnson."
+Annotation:
+{
+    "invoice_number": "789012",
+    "vendor_name": "Tech Solutions Ltd.",
+    "date": "2024-10-09",
+    "total_amount": "$300",
+    "part_description": "Hydraulic Pump",
+    "date_of_reception": "2024-10-07",
+    "buyer_id": "103",
+    "buyer_name": "Bob Johnson"
+}
+Invoice Text: "Facture N° 112233. Société: Fournisseur Global, Émise le: 09-10-2024, Montant Total: 3200€. Description: Circuit Board, Reception Date: 2024-10-06. Buyer: ID 104, Claire Lee."
+Annotation:
+{
+    "invoice_number": "112233",
+    "vendor_name": "Fournisseur Global",
+    "date": "2024-10-09",
+    "total_amount": "3200€",
+    "part_description": "Circuit Board",
+    "date_of_reception": "2024-10-06",
+    "buyer_id": "104",
+    "buyer_name": "Claire Lee"
+}
+Invoice Text: "Invoice ID: 445566, Provider: GlobalTech Inc., Date: 2024/10/09, Total Amount: $4750. Part: Bearing Set, Received: 2024-10-08. Buyer Details: 105, David Wilson."
+Annotation:
+{
+    "invoice_number": "445566",
+    "vendor_name": "GlobalTech Inc.",
+    "date": "2024-10-09",
+    "total_amount": "$4750",
+    "part_description": "Bearing Set",
+    "date_of_reception": "2024-10-08",
+    "buyer_id": "105",
+    "buyer_name": "David Wilson"
+}
+Invoice Text: "Supplier: ABC Enterprises, Date: 9th October 2024, Ref No.: 554433, Total Due: $1120. Item Description: Control Valve, Received on: 2024-10-05. Buyer ID 106, Buyer: Emma Davis."
+Annotation:
+{
+    "invoice_number": "554433",
+    "vendor_name": "ABC Enterprises",
+    "date": "2024-10-09",
+    "total_amount": "$1120",
+    "part_description": "Control Valve",
+    "date_of_reception": "2024-10-05",
+    "buyer_id": "106",
+    "buyer_name": "Emma Davis"
+}
+Invoice Text: "Transaction ID: 778899, Service Provider: Quick Solutions, Date of Billing: 10-09-2024, Amount: £1000. Component: LED Display, Date Received: 2024-10-06. Buyer: ID 107, Michael Brown."
+Annotation:
+{
+    "invoice_number": "778899",
+    "vendor_name": "Quick Solutions",
+    "date": "2024-09-10",
+    "total_amount": "£1000",
+    "part_description": "LED Display",
+    "date_of_reception": "2024-10-06",
+    "buyer_id": "107",
+    "buyer_name": "Michael Brown"
+}
+Invoice Text: "Bill Number: INV-2024-0011, Billed To: ABC Services, Billing Date: 2024 October 9, Total Amount Payable: $2400. Part: Air Filter, Received on 2024-10-04. Buyer Info: 108, Olivia Green."
+Annotation:
+{
+    "invoice_number": "INV-2024-0011",
+    "vendor_name": "ABC Services",
+    "date": "2024-10-09",
+    "total_amount": "$2400",
+    "part_description": "Air Filter",
+    "date_of_reception": "2024-10-04",
+    "buyer_id": "108",
+    "buyer_name": "Olivia Green"
+}
+Invoice Text: "Doc # 998877, Client: Digital Works, Issued On: 09-10-2024, Invoice Total: €890. Part Name: Power Supply Unit, Reception Date: 2024-10-07. Buyer ID: 109, Name: Henry White."
+Annotation:
+{
+    "invoice_number": "998877",
+    "vendor_name": "Digital Works",
+    "date": "2024-10-09",
+    "total_amount": "€890",
+    "part_description": "Power Supply Unit",
+    "date_of_reception": "2024-10-07",
+    "buyer_id": "109",
+    "buyer_name": "Henry White"
+}
+Invoice Text: "Ref ID: 334455, Supplier: New Horizons LLC, Date Issued: 2024.10.09, Amount: $350. Description: Optical Sensor, Received Date: 2024-10-05. Buyer ID 110, Buyer: Sophia Harris."
+Annotation:
+{
+    "invoice_number": "334455",
+    "vendor_name": "New Horizons LLC",
+    "date": "2024-10-09",
+    "total_amount": "$350",
+    "part_description": "Optical Sensor",
+    "date_of_reception": "2024-10-05",
+    "buyer_id": "110",
+    "buyer_name": "Sophia Harris"
+}
